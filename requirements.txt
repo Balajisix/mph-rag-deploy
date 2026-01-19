@@ -1,0 +1,10 @@
+python-dotenv
+fastapi
+langchain
+langchain-huggingface
+langchain-community
+pydantic
+langchain-classic
+python-multipart
+uvicorn
+faiss-cpu
