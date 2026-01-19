@@ -8,3 +8,4 @@ langchain-classic
 python-multipart
 uvicorn
 faiss-cpu
+sentence-transformers
